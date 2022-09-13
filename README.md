@@ -25,7 +25,7 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ### Links
 
-- Solution URL: [solution URL here](https://github.com/EmeritusUmar/qr-code-component-main)
+- Solution URL: [solution URL here](https://github.com/EmeritusUmar/product-preview-card-component-main)
 - Live Site URL: [live site URL here](https://product-preview-card-component-umar.netlify.app/)
 
 ## My process
